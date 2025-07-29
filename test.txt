@@ -1,0 +1,2 @@
+cool stuff go here >test.txt
+echo cool stuff go here
